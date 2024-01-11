@@ -2,6 +2,9 @@
 ## Project Overview
 This project presents the implementation of a keyword spotter using the Nano 33 BLE Arduino Board. The aim is to develop an efficient wake word detection system, essential for many speech recognition applications. Wake word detection involves recognizing specific phrases or words, in this case, "yes" and "computer," to trigger the system into action.
 
+![Main live demonstration](/figures/demo.mp4)
+
+
 # Methodology
 ## Data Collection and Training
 Dataset: Collection of audio samples from myself and john smith.
