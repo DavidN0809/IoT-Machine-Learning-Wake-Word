@@ -15,5 +15,8 @@ Real-Time Monitoring: Continuous monitoring of audio input for wake word detecti
 # Performance Evaluation
 Accuracy: The system's ability to correctly detect the wake words.
 Speed: Response time from the wake word detection.
-![Main live demonstration](/figures/Data set conf matrix.png.gif)
+
+![Performance](/figures/Data set conf matrix.png)
+![Loss and Accuracy](/figures/loss and acc.png)
+
 
